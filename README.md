@@ -23,5 +23,9 @@ This Dashboard involves identifying peak listening times using a Heat map that v
 * High Frequency & Low Listening Time - Short & Frequently played tracks
 * Low Frequency & Low Listening Time - Less Popular tracks
 
-  Dashboard-3: Details View
-  
+Dashboard-3: Details View
+![image](https://github.com/user-attachments/assets/0ac9d73f-7a37-4afc-8ff2-f46fc935cd77)
+
+Created an interactive and dynamic grid to display key details like Album Name, Artist Name, and Track Name on other relevant 
+Attributes
+
